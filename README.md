@@ -9,6 +9,14 @@
 
 Research project by Jorik de Boer.
 
+## Schedule
+
+ * Monday 9:00-?10:00 progress meeting Richel
+ * Monday 10:30-11:00 TRES coffee break, 580
+ * Monday 16:00-17:00 TRES meeting, Blue Room
+ * Thursday 16:00-17:00 GELIFES lecture, The Eye/Blue Room
+ * Monthly TECE meetings
+
 ## Scientific articles 
 
  * [1] Gavrilets, Sergey. Fitness landscapes and the origin of species (MPB-41). Princeton, NJ: Princeton University Press, 2004. Part 2: 'The Bateson-Dobzhansky-Muller Model'
