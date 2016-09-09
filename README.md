@@ -4,8 +4,8 @@
 ![Whitespace](Whitespace.png)
 [![Codecov logo](Codecov.png)](https://www.codecov.io)
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/jorik_de_boer.svg?branch=master)](https://travis-ci.org/richelbilderbeek/jorik_de_boer)
-[![codecov.io](https://codecov.io/github/richelbilderbeek/jorik_de_boer/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/jorik_de_boer?branch=master)
+[![Build Status](https://travis-ci.org/JorikdeBoer/jorik_de_boer.svg?branch=master)](https://travis-ci.org/JorikdeBoer/jorik_de_boer)
+[![codecov.io](https://codecov.io/github/JorikdeBoer/jorik_de_boer/coverage.svg?branch=master)](https://codecov.io/github/JorikdeBoer/jorik_de_boer?branch=master)
 
 Research project by Jorik de Boer.
 
