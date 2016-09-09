@@ -21,6 +21,9 @@ Research project by Jorik de Boer.
 
  * [1] Gavrilets, Sergey. Fitness landscapes and the origin of species (MPB-41). Princeton, NJ: Princeton University Press, 2004. Part 2: 'The Bateson-Dobzhansky-Muller Model'
  * [2] Etienne, Rampal S., and James Rosindell. "Prolonging the past counteracts the pull of the present: protracted speciation can explain observed slowdowns in diversification." Systematic Biology (2011): syr091.
+ * [3] Janzen, Thijs; Höhna, Sebastian and Etienne, Rampal S. "Approximate Bayesian Computation of diversification
+rates from molecular phylogenies: introducing a new efficient summary statistic, the nLTT." Methods in Ecology and Evolution
+(2015); doi: 10.1111/2041-210X.12350
  * ([My current work](https://github.com/richelbilderbeek/Cer2016/blob/master/doc/Cer2016.pdf))
 
 ## Scientific presentations
