@@ -3,14 +3,14 @@ Written on 12-09-2016 by Jorik
 This program calculates the molecular weight of two different salts. */
 
 #include <iostream>
+#include <string>
 using namespace std;
 
 void terminateProgram()
 {
     cout << "Press any character and <ENTER> to continue" << endl;
-    char chAnyChar;
-    cin >> chAnyChar;
-    return;
+    std::string s;
+    std::getline(std::cin, s);
 }
 
 void writeOutput(double dWeight)
