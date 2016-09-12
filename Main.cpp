@@ -29,13 +29,13 @@ int main()
         dWeightS = 32.065;
     // calculation of molecular weight of
     // trisodium salt of ATP (C10H13N5Na3O13P3)
-    double dWeighttrisodiumsaltofATP =
+    double dC10H13N5Na3O13P3 =
         10 * dWeightC + 13 * dWeightH + 5 * dWeightN +
         3 * dWeightNa + 13 * dWeightO + 3 * dWeightP;
     writeOutput(dWeighttrisodiumsaltofATP);
     // calculation of molecular weight of
     // Sildenafil citrate (C28H38N6O11S)
-    double dWeightSildenafilCitrate =
+    double dC28H38N6O11S =
         28 * dWeightC + 38 * dWeightH + 6 * dWeightN +
         11 * dWeightO + 1 * dWeightS;
     writeOutput(dWeightSildenafilCitrate);
