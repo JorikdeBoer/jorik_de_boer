@@ -32,13 +32,13 @@ int main()
     double dC10H13N5Na3O13P3 =
         10 * dWeightC + 13 * dWeightH + 5 * dWeightN +
         3 * dWeightNa + 13 * dWeightO + 3 * dWeightP;
-    writeOutput(dWeighttrisodiumsaltofATP);
+    writeOutput(dC10H13N5Na3O13P3);
     // calculation of molecular weight of
     // Sildenafil citrate (C28H38N6O11S)
     double dC28H38N6O11S =
         28 * dWeightC + 38 * dWeightH + 6 * dWeightN +
         11 * dWeightO + 1 * dWeightS;
-    writeOutput(dWeightSildenafilCitrate);
+    writeOutput(dC28H38N6O11S);
     //terminateProgram();
     terminateProgram();
 }
