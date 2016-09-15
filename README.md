@@ -17,6 +17,9 @@ Research project by Jorik de Boer.
  * Thursday 16:00-17:00 GELIFES lecture, The Eye/Blue Room
  * Monthly TECE meetings, first at Tuesday September 27th from 9:30-16:00
 
+## My master project reports
+* ([Introduction report](https://github.com/JorikdeBoer/jorik_de_boer/blob/master/The%20PBD%20%26%20BDM%20model%20introduction%20report%20Jorik%20de%20Boer.pdf))
+
 ## Scientific articles 
 
  * [1] Gavrilets, Sergey. Fitness landscapes and the origin of species (MPB-41). Princeton, NJ: Princeton University Press, 2004. Part 2: 'The Bateson-Dobzhansky-Muller Model'
