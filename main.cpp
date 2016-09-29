@@ -17,7 +17,6 @@ void writeOutput(double dWeight)
 {
     cout << "The molecular weight is " << dWeight << " g/mol"
         << endl;
-    return;
 }
 
 int main()
