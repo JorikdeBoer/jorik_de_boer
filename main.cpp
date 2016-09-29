@@ -39,6 +39,5 @@ int main()
         28 * dWeightC + 38 * dWeightH + 6 * dWeightN +
         11 * dWeightO + 1 * dWeightS;
     writeOutput(dC28H38N6O11S);
-    //terminateProgram();
     terminateProgram();
 }
