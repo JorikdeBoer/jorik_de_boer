@@ -6,13 +6,6 @@ This program calculates the molecular weight of two different salts. */
 #include <string>
 using namespace std;
 
-void terminateProgram()
-{
-    cout << "Press any character and <ENTER> to continue\n";
-    std::string s;
-    std::getline(std::cin, s);
-}
-
 void writeOutput(double dWeight)
 {
     cout << "The molecular weight is " << dWeight << " g/mol\n";
@@ -37,5 +30,4 @@ int main()
         28 * dWeightC + 38 * dWeightH + 6 * dWeightN +
         11 * dWeightO + 1 * dWeightS;
     writeOutput(dC28H38N6O11S);
-    terminateProgram();
 }
