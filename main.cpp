@@ -8,15 +8,14 @@ using namespace std;
 
 void terminateProgram()
 {
-    cout << "Press any character and <ENTER> to continue" << endl;
+    cout << "Press any character and <ENTER> to continue\n";
     std::string s;
     std::getline(std::cin, s);
 }
 
 void writeOutput(double dWeight)
 {
-    cout << "The molecular weight is " << dWeight << " g/mol"
-        << endl;
+    cout << "The molecular weight is " << dWeight << " g/mol\n";
 }
 
 int main()
