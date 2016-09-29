@@ -18,7 +18,7 @@ Research project by Jorik de Boer.
  * Monthly TECE meetings, first at Tuesday September 27th from 9:30-16:00
 
 ## My master project reports
-* ([Introduction report](https://github.com/JorikdeBoer/jorik_de_boer/blob/master/The%20PBD%20%26%20BDM%20model%20introduction%20report%20Jorik%20de%20Boer%2028-09.pdf))
+* ([Introduction report](https://github.com/JorikdeBoer/jorik_de_boer/blob/master/Introduction%20report%20PBD%20%26%20BDM%20model%20Jorik%20de%20Boer.pdf))
 
 ## Scientific articles 
 
